@@ -1,8 +1,8 @@
 {
-    "name": "Cloudstream New Arabic Extensions",
-    "description": "Cloudstream New Arabic Extensions",
-    "manifestVersion": 1,
-    "pluginLists": [
-      "https://raw.githubusercontent.com/khfix/cloudstream-new-extensions/builds/plugins.json"
-    ]
-  }
+  "name": "CloudStream New Arabic Extensions",
+  "description": "CloudStream New Arabic Extensions",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://khfix.github.io/cloudstream-new-extensions/plugins.json"
+  ]
+}
