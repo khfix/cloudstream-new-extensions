@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="witanime_plugin_name">WitAnime Provider</string>
+    <string name="witanime_plugin_description">Arabic anime content provider for WitAnime website offering a wide range of anime series, movies, and OVAs with multiple quality options and download links</string>
+    <string name="witanime_title">WitAnime</string>
+    <string name="witanime_description">مزود محتوى الأنمي العربي من موقع WitAnime</string>
+    <string name="hello_fragment">مرحبا بك في WitAnime!</string>
+    <string name="loaded_from_app_trans">[تم التحميل من التطبيق]</string>
+    <string name="currently_airing">الأنميات المعروضة حاليا</string>
+    <string name="completed_anime">الأنميات المكتملة</string>
+    <string name="tv_anime">أنميات TV</string>
+    <string name="anime_movies">أفلام الأنمي</string>
+    <string name="ova_content">OVA</string>
+    <string name="ona_content">ONA</string>
+    <string name="episode_text">الحلقة</string>
+    <string name="download_links">روابط التحميل</string>
+    <string name="quality_sd">الجودة المتوسطة SD</string>
+    <string name="quality_hd">الجودة العالية HD</string>
+    <string name="quality_fhd">الجودة الخارقة FHD</string>
+    <string name="direct_video">فيديو مباشر</string>
+    <string name="external_player">مشغل خارجي</string>
+    <string name="js_source">مصدر JavaScript</string>
+    <string name="m3u8_stream">M3U8 Stream</string>
+    <string name="mp4_stream">MP4 Stream</string>
+</resources>
