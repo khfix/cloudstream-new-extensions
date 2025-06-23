@@ -42,7 +42,7 @@ subprojects {
     }
 
     android {
-         namespace = "com.khfix.cloudstreamnewextensions"
+         namespace = "cloudstreamnewextensions"
         defaultConfig {
             minSdk = 21
             compileSdkVersion(35)
@@ -67,7 +67,7 @@ subprojects {
     }
 
     dependencies {
-        val cloudstream by configurations
+         val cloudstream by configurations
         val implementation by configurations
 
         // Stubs for all cloudstream classes

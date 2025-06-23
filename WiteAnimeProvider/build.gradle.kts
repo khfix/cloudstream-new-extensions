@@ -39,6 +39,7 @@ cloudstream {
     language = "ar"
 
     iconUrl = "https://witanime.uno/wp-content/uploads/2023/08/cropped-Logo-WITU-32x32.png"
+    isCrossPlatform = true
 }
 
 android {
