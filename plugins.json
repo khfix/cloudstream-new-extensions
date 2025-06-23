@@ -1,0 +1,23 @@
+[
+    {
+        "iconUrl": "https://witanime.uno/wp-content/uploads/2023/08/cropped-Logo-WITU-32x32.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/khfix/cloudstream-new-extensions",
+        "fileSize": 25328,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "khfix"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WiteAnimeProvider",
+        "description": "WiteAnime is a provider for anime content, offering a wide range of titles and genres.",
+        "url": "https://raw.githubusercontent.com/khfix/cloudstream-new-extensions/builds/WiteAnimeProvider.cs3",
+        "name": "WiteAnimeProvider"
+    }
+]
