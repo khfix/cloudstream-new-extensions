@@ -17,7 +17,7 @@
         "version": 1,
         "internalName": "WiteAnimeProvider",
         "description": "WiteAnime is a provider for anime content, offering a wide range of titles and genres.",
-        "url": "https://khfix.github.io/cloudstream-new-extensions/WiteAnimeProvider.cs3",
+        "url": "https://raw.githubusercontent.com/khfix/cloudstream-new-extensions/builds/WiteAnimeProvider.cs3",
         "name": "WiteAnimeProvider"
     }
 ]
